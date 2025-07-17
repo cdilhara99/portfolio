@@ -12,13 +12,13 @@ export default function HomeClient() {
   return (
     <div suppressHydrationWarning>
       <HeroSection />
-      <AboutSection />
-      <Experience />
-      <Skills />
-      <Projects />
-      <Education />
+      {/* <AboutSection /> */}
+      {/* <Experience /> */}
+      {/* <Skills /> */}
+      {/* <Projects /> */}
+      {/* <Education /> */}
       {/* <Blog blogs={blogs} /> */}
-      <ContactSection />
+      {/* <ContactSection /> */}
     </div>
   );
 }
