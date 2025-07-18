@@ -7,6 +7,17 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: '',
         demo: '',
+        images: [
+            '/image/ayla.jpg',
+            '/image/ayla.jpg',
+            '/image/real-estate.jpg',
+            '/image/crefin.jpg',
+            '/image/screen.png',
+            '/image/travel.jpg',
+            '/image/crefin.jpg',
+            '/image/screen.png',
+            '/image/travel.jpg'
+        ],
     },
     {
         id: 2,
@@ -16,6 +27,11 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: '',
         demo: '',
+        images: [
+            '/image/crefin.jpg',
+            '/image/screen.png',
+            '/image/travel.jpg'
+        ],
     },
     {
         id: 3,
@@ -25,6 +41,11 @@ export const projectsData = [
         code: '',
         role: 'Full Stack Developer',
         demo: '',
+        images: [
+            '/image/portfolio.gif',
+            '/image/real-estate.jpg',
+            '/image/ayla.jpg'
+        ],
     },
     {
         id: 4,
@@ -34,6 +55,11 @@ export const projectsData = [
         code: '',
         demo: '',
         role: 'Full Stack Developer',
+        images: [
+            '/image/crefin.jpg',
+            '/image/screen.png',
+            '/image/travel.jpg'
+        ],
     },
     {
         id: 5,
@@ -43,6 +69,11 @@ export const projectsData = [
         code: '',
         demo: '',
         role: 'Full Stack Developer',
+        images: [
+            '/image/portfolio.gif',
+            '/image/real-estate.jpg',
+            '/image/ayla.jpg'
+        ],
     },
     {
         id: 6,
@@ -52,6 +83,11 @@ export const projectsData = [
         code: '',
         demo: '',
         role: 'Full Stack Developer',
+        images: [
+            '/image/crefin.jpg',
+            '/image/screen.png',
+            '/image/travel.jpg'
+        ],
     },
     {
         id: 7,
@@ -61,6 +97,11 @@ export const projectsData = [
         code: '',
         demo: '',
         role: 'Full Stack Developer',
+        images: [
+            '/image/portfolio.gif',
+            '/image/real-estate.jpg',
+            '/image/ayla.jpg'
+        ],
     },
     {
         id: 8,
@@ -70,6 +111,11 @@ export const projectsData = [
         code: '',
         demo: '',
         role: 'Full Stack Developer',
+        images: [
+            '/image/crefin.jpg',
+            '/image/screen.png',
+            '/image/travel.jpg'
+        ],
     }
 ];
 
