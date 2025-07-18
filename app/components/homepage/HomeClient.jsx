@@ -2,10 +2,10 @@
 "use client";
 import HeroSection from "./hero-section";
 import AboutSection from "./about";
-// import Experience from "./experience";
+import Experience from "./experience";
 import Skills from "./skills";
 import Projects from "./projects";
-// import Education from "./education";
+import Education from "./education";
 import ContactSection from "./contact";
 
 export default function HomeClient() {
@@ -13,10 +13,10 @@ export default function HomeClient() {
     <div suppressHydrationWarning>
       <HeroSection />
       <AboutSection />
-      {/* <Experience /> */}
+      <Experience />
       <Skills />
       <Projects />
-      {/* <Education /> */}
+      <Education />
       {/* <Blog blogs={blogs} /> */}
       <ContactSection />
     </div>
