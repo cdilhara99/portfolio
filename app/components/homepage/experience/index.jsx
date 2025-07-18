@@ -6,8 +6,10 @@ import { BsPersonWorkspace } from "react-icons/bs";
 import experience from '../../../assets/lottie/code.json';
 import AnimationLottie from "../../helper/animation-lottie";
 
+import dynamic from "next/dynamic";
+const GlowCard = dynamic(() => import("../../helper/glow-card"), { ssr: false });
+
 function Experience() {
-  const GlowCard = require("../../helper/glow-card").default;
   return (
     <div id="experience" className="relative z-50 border-t my-12 lg:my-24 border-[#25213b]">
       <Image
