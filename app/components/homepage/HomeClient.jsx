@@ -15,8 +15,8 @@ export default function HomeClient() {
       {/* <AboutSection /> */}
       {/* <Experience /> */}
       {/* <Skills /> */}
-      <Projects />
-      {/* <Education /> */}
+      {/* <Projects /> */}
+      <Education />
       {/* <Blog blogs={blogs} /> */}
       {/* <ContactSection /> */}
     </div>
