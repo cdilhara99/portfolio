@@ -4,9 +4,9 @@ import HeroSection from "./hero-section";
 import AboutSection from "./about";
 // import Experience from "./experience";
 import Skills from "./skills";
-// import Projects from "./projects";
-// import Education from "./education";
-// import ContactSection from "./contact";
+import Projects from "./projects";
+import Education from "./education";
+import ContactSection from "./contact";
 
 export default function HomeClient() {
   return (
@@ -15,10 +15,10 @@ export default function HomeClient() {
       <AboutSection />
       {/* <Experience /> */}
       <Skills />
-      {/* <Projects /> */}
-      {/* <Education /> */}
+      <Projects />
+      <Education />
       {/* <Blog blogs={blogs} /> */}
-      {/* <ContactSection /> */}
+      <ContactSection />
     </div>
   );
 }
