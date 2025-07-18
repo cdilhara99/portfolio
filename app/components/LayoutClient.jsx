@@ -1,7 +1,7 @@
 "use client";
 
 import { ToastContainer } from "react-toastify";
-import ScrollToTop from "../helper/scroll-to-top";
+import ScrollToTop from "./helper/scroll-to-top";
 
 export default function LayoutClient() {
   return (
