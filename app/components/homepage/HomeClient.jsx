@@ -14,8 +14,8 @@ export default function HomeClient() {
       {/* <HeroSection /> */}
       {/* <AboutSection /> */}
       {/* <Experience /> */}
-      <Skills />
-      {/* <Projects /> */}
+      {/* <Skills /> */}
+      <Projects />
       {/* <Education /> */}
       {/* <Blog blogs={blogs} /> */}
       {/* <ContactSection /> */}
