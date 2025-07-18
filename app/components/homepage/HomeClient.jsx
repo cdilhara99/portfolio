@@ -18,7 +18,7 @@ export default function HomeClient() {
       {/* <Projects /> */}
       {/* <Education /> */}
       {/* <Blog blogs={blogs} /> */}
-      <ContactSection />
+      {/* <ContactSection /> */}
     </div>
   );
 }
