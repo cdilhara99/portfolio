@@ -16,5 +16,5 @@ import HomeClient from "./components/homepage/HomeClient";
 // };
 
 export default function Home() {
-  return <div />;
+  return <HomeClient />;
 }
