@@ -11,7 +11,7 @@ import ContactSection from "./contact";
 export default function HomeClient() {
   return (
     <div suppressHydrationWarning>
-      {/* <HeroSection /> */}
+      <HeroSection />
       {/* <AboutSection /> */}
       {/* <Experience /> */}
       {/* <Skills /> */}
