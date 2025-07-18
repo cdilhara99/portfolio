@@ -12,8 +12,8 @@ export default function HomeClient() {
   return (
     <div suppressHydrationWarning>
       {/* <HeroSection /> */}
-      <AboutSection />
-      {/* <Experience /> */}
+      {/* <AboutSection /> */}
+      <Experience />
       {/* <Skills /> */}
       {/* <Projects /> */}
       {/* <Education /> */}
