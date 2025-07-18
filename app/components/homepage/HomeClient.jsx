@@ -5,7 +5,7 @@ import AboutSection from "./about";
 // import Experience from "./experience";
 import Skills from "./skills";
 import Projects from "./projects";
-// import Education from "./education";
+import Education from "./education";
 // import ContactSection from "./contact";
 
 export default function HomeClient() {
@@ -16,7 +16,7 @@ export default function HomeClient() {
       {/* <Experience /> */}
       <Skills />
       <Projects />
-      {/* <Education /> */}
+      <Education />
       {/* <Blog blogs={blogs} /> */}
       {/* <ContactSection /> */}
     </div>
