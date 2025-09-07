@@ -1,15 +1,15 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
+    title: "BEng.(hons) Software Engineering",
     duration: "2024 - 2025",
     institution: "London Metropolitan University",
   },
   {
     id: 2,
-    title: "Pearson BTEC HND in Comuting",
+    title: "BTEC HND in Comuting",
     duration: "2022 - 2024",
-    institution: "ESOFT Metro Campus",
+    institution: "Pearson",
   },
   // {
   //   id: 3,
